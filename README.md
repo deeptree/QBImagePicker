@@ -2,7 +2,7 @@
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-A clone of UIImagePickerController with multiple selection support.Add Time-base selection function.
+A clone of UIImagePickerController with multiple selection support. Add Time-base selection function!
 ![screenshot01.png](screenshot01.png)
 ![screenshot02.png](screenshot02.png)
 
